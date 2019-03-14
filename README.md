@@ -1,30 +1,77 @@
 # instant-pod
-Algolia powered Podcast Search Engine
+Algolia powered Podcast Search Engine (tech)
 
+## Find Podcast RSS feeds
+### Manual
+* Open iTunes
+* Search iTunes for podcast
+* copy itunes link, paste to http://getrssfeed.com/
 
 ## sources
-### NPR
+### Ask HN, What you listening to?
 * https://www.npr.org/rss/podcast.php?id=510289
+* http://feeds.gimletmedia.com/hearreplyall?format=xml
+* https://feeds.feedblitz.com/_/20/599432320/startupsfortherestofus
+* http://feeds.backtracks.fm/feeds/indiehackers/indiehackers/feed.xml
+* https://conversionaid.libsyn.com/rss
+* https://audioboom.com/channels/2399216.rss
+* http://feeds.feedburner.com/se-radio?format=xml
+* https://acquired.libsyn.com/rss
+* http://www.theamphour.com/feed/podcast
+* https://malicious.life/feed/podcast/
+* https://itunes.apple.com/us/podcast/darknet-diaries/id1296350485?mt=2
+* http://risky.biz/feeds/risky-business/
+* https://isc.sans.edu/dailypodcast.xml
+* http://philosophizethis.libsyn.com/rss
+* http://feeds.feedburner.com/netRocksFullMp3Downloads
+* http://feeds.podtrac.com/tBPkjrcL0_m0
+* https://coder.show/rss
+* https://talkpython.fm/episodes/rss
+* https://softwareengineeringdaily.com/feed/podcast/
+* https://rss.simplecast.com/podcasts/279/rss
+* https://gomakethings.com/podcast/feed.rss
+* https://feeds.feedwrench.com/js-jabber.rss
+* https://changelog.com/podcast/feed
+* https://changelog.com/founderstalk/feed
+* https://changelog.com/jsparty/feed
+* https://changelog.com/gotime/feed
+* http://therollbak.libsyn.com/rss
+* https://changelog.com/practicalai/feed
+* http://feeds.codenewbie.org/cnpodcast.xml
+* https://changelog.com/rfc/feed
+* https://changelog.com/spotlight/feed
+* https://feeds.transistor.fm/ctoconnection
+* https://softwareengineeringdaily.com/category/hackers/feed/
+* http://feeds.feedburner.com/Turing-incomplete
+* https://feed.syntax.fm/rss
+* https://pythonbytes.fm/episodes/rss
+* https://rss.acast.com/theeconomistbabbage
+* http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss
+* http://millionaire-interviews.libsyn.com/rss
+* http://thetwentyminutevc.libsyn.com/rss
+* https://feedpress.me/RideHome
+* https://itunes.apple.com/us/podcast/this-week-in-startups-audio/id315114957?mt=2
+* https://itunes.apple.com/us/podcast/secrets-for-scaling/id1178675789?mt=2
+* http://cryptoweekly.libsyn.com/rss
+* http://feeds.soundcloud.com/users/soundcloud:users:220400255/sounds.rss
+* https://itunes.apple.com/us/podcast/oreilly-data-show-oreilly-media-podcast/id944929220?mt=2
+* https://feeds.megaphone.fm/recodedecode
+* http://feeds.gimletmedia.com/hearreplyall
+* https://feeds.megaphone.fm/historyofthefuture
+* http://feeds.megaphone.fm/ifthen
+* http://twimlai.libsyn.com/rss
+* https://www.relay.fm/radar/feed
+* http://feeds.panoply.fm/WSJ5815510508?limit=50
+* http://thecyberwire.libsyn.com/rss
+* http://feeds.feedburner.com/DailyTechHeadlines
+* http://feeds.twit.tv/sn.xml
+* http://technewsthisweek.kimkomando.libsynpro.com/rss
+* http://feeds.soundcloud.com/users/soundcloud:users:306749289/sounds.rss
+* https://podcasts.files.bbci.co.uk/b00snr0w.rss
+* https://feeds.pacific-content.com/commandlineheroes
+* http://www.hellointernet.fm/podcast?format=rss
 * https://www.npr.org/rss/podcast.php?id=510313
-* https://www.npr.org/rss/podcast.php?id=510318
-* https://www.npr.org/rss/podcast.php?id=344098539
-* https://www.npr.org/rss/podcast.php?id=510308
-* https://www.npr.org/rss/podcast.php?id=510298
-* https://www.npr.org/rss/podcast.php?id=381444908
-* https://www.npr.org/rss/podcast.php?id=510310
-* https://www.npr.org/rss/podcast.php?id=510306
-* https://www.npr.org/rss/podcast.php?id=510325
-* https://www.npr.org/rss/podcast.php?id=510316
-* https://www.npr.org/rss/podcast.php?id=510282
-* https://wglt.drupal.publicbroadcasting.net/podcasts/58292/rss.xml
-* https://audiostaq.com/feeds/openaccess
-* https://wnij.drupal.publicbroadcasting.net/podcasts/130033/rss.xml
-* https://wdet-rss.streamguys1.com/Podcast/EssentialConversations/essential-conversations-npr.xml
-* https://mpbn.drupal.publicbroadcasting.net/podcasts/71670/rss.xml
-* https://wamcpodcasts.org/feed/podcast/wrlf
-* https://kpcw.drupal.publicbroadcasting.net/podcasts/53941/rss.xml
-* https://audiostaq.com/feeds/baltimorestories
-* https://kpbx.drupal.publicbroadcasting.net/podcasts/992/rss.xml
-* https://gpb-od.streamguys1.com/gpb/thecredits-nprone.xml
-* https://feeds.feedburner.com/keepingscorepod
-* 
+* http://www.themenu.bar/show?format=rss
+* https://daringfireball.net/thetalkshow/rss
+* https://rss.art19.com/tim-ferriss-show
+
